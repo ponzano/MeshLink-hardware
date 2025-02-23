@@ -1,6 +1,8 @@
 # MeshLink-hardware
 A new Meshtastic board! Schematic now public
 
+Changelog:
+V1.2: changed watchdog ic due to availability issues
 
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
